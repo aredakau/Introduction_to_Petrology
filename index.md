@@ -17,3 +17,5 @@ This course will cover the following topics:
 - [Introduction](slides/lecture_1.html)
 - [Overview of the Rock Cycle](slides/lecture_2.html)
 - [Plate Tectonics and Magma Generation](slides/lecture_3.html)
+- [Chemical and Physical Properties of Magma](slides/lecture_4.html)
+- [Bowen’s Reaction Series](slides/lecture_5.html)

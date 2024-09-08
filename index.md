@@ -19,3 +19,4 @@ This course will cover the following topics:
 - [Plate Tectonics and Magma Generation](slides/lecture_3.html)
 - [Chemical and Physical Properties of Magma](slides/lecture_4.html)
 - [Bowen’s Reaction Series](slides/lecture_5.html)
+- [Magma Evolution](slides/lecture_6.html)

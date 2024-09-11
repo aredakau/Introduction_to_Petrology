@@ -21,3 +21,4 @@ This course will cover the following topics:
 - [Bowen’s Reaction Series](slides/lecture_5.html)
 - [Magma Evolution](slides/lecture_6.html)
 - [Mineralogical Composition of Igneous Rocks](slides/lecture_7.html)
+- [How to write a petrogrophy report (practical session)](slides/practical_1.html)

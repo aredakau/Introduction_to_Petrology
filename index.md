@@ -23,3 +23,4 @@ This course will cover the following topics:
 - [Mineralogical Composition of Igneous Rocks](slides/lecture_7.html)
 - [How to write a petrogrophy report (practical session)](slides/practical_1.html)
 - [Textures of Igneous Rocks](slides/lecture_8.html)
+- [Field Relations: Forms and Shape of Igneous Rocks](slides/lecture_9.html)

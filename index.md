@@ -24,3 +24,4 @@ This course will cover the following topics:
 - [How to write a petrogrophy report (practical session)](slides/practical_1.html)
 - [Textures of Igneous Rocks](slides/lecture_8.html)
 - [Field Relations: Forms and Shape of Igneous Rocks](slides/lecture_9.html)
+- [Classification of Igneous Rocks](slides/lecture_10.html)

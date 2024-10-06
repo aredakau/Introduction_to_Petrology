@@ -25,3 +25,4 @@ This course will cover the following topics:
 - [Textures of Igneous Rocks](slides/lecture_8.html)
 - [Field Relations: Forms and Shape of Igneous Rocks](slides/lecture_9.html)
 - [Classification of Igneous Rocks](slides/lecture_10.html)
+- [Introduction to Metamorphism and Metamorphic Rocks](slides/lecture_11.html)

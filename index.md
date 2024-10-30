@@ -28,3 +28,4 @@ This course will cover the following topics:
 - [Introduction to Metamorphism and Metamorphic Rocks](slides/lecture_11.html)
 - [Classification of Metamorphic Rocks](slides/lecture_12.html)
 - [Metamorphic Minerals](slides/lecture_13.html)
+- [Metamorphic Texture](slides/lecture_14.html)

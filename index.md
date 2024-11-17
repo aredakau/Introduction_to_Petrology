@@ -30,3 +30,4 @@ This course will cover the following topics:
 - [Metamorphic Minerals](slides/lecture_13.html)
 - [Metamorphic Texture](slides/lecture_14.html)
 - [Metamorphic Facies](slides/lecture_15.html)
+- [Stratigraphy and Sedimentation: Basic Principles](slides/lecture_16.html)

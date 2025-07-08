@@ -30,6 +30,7 @@ This course will cover the following topics:
 - [Metamorphic Minerals](slides/lecture_13.html)
 - [Metamorphic Texture](slides/lecture_14.html)
 - [Metamorphic Facies](slides/lecture_15.html)
+- [Introduction to Thermodynamics](slides/lecture_21.html)
 - [Stratigraphy and Sedimentation: Basic Principles](slides/lecture_16.html)
 - [Characteristics of Sedimentary Rocks](slides/lecture_20.html)
 - [Classification of Sediments and Sedimentary Rocks](slides/lecture_17.html)
